@@ -14,7 +14,7 @@ We focus on:
 Each prompt asks the LLM to describe **10 distinct tactile behaviours** to express a given emotion, tailored to a specific cultural context and interaction role.
 
 ## 🧾 Prompt Template
-It's in the main.py file.
+It's in the main.py file under prompt folder.
 
 ## 🎭 Emotions
 
